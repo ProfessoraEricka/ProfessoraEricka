@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
+### Olá 👋
+_Bem Vindo(a) ao meu Perfil_ ❤️
 **ProfessoraEricka/ProfessoraEricka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Ericka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍🏫 Sou Professora de Pensamento Computacional
+- 🌱 Estou estudando no [Alura](https://www.alura.com.br)
+- 👩‍🎓 Vamos aprender juntos? 
+- 📭 Você pode entrar em contato comigo atravez do e-mail: ericka.pignoni@escola.pr.gov.br
+
+- ![](https://media.tenor.com/0ogyiPOIohwAAAAC/hehe-mr-bean.gif)
+- 
+
